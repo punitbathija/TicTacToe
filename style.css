@@ -11,7 +11,7 @@
     padding: 10px;
     grid-template-columns: auto auto auto;
     height: 200px;
-    width: 30%;
+    width:fit-content;
     text-align: center;
     margin: auto;
     padding: 20%;
